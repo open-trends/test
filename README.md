@@ -1,4 +1,4 @@
 # test
 This repository is used to test our project OpenTrends
 
-So we can do what we want hehehe
+Don't do anything on this repository without asking Joan
